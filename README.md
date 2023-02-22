@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @landonclark97
-- 👀 I’m interested in ... video games and robotics
+- 👀 I’m interested in ... simulations and robotics
 - 🌱 I’m currently learning ... how to make a readme for my github profile
 
 See: https://github.com/Compcepts
